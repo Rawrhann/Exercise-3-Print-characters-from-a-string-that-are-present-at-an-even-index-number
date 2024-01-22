@@ -4,4 +4,4 @@
 pynative = ("pynative")
 print(pynative)
 for i in range(0, 8, 2):
-    print(pynative,{i})
+    print(pynative[i])
